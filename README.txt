@@ -1,0 +1,1 @@
+This is a sample of a Node.js file uploader. It is meant as an example for students or others interested in Node.js. You are welcome to modify it for your own purposes, however, I ask that you please contact me with any comments, questions, critiques or if this sample has helped you in some way.
